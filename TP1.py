@@ -94,5 +94,3 @@ num2 = int(input("Escriba otro numero: "))
 num3 = int(input("Escriba el ultimo numero: "))
 promedio = (num1 + num2 + num3)/3
 print(f"El promedio de los numeros ingresados es : {promedio}")
-
-print("esto es un festejo de fin de tp")
